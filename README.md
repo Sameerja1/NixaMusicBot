@@ -28,7 +28,7 @@
 
 ### ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
-[![Deploy](https://t.me/freindshipgroup187 www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anikunshshiw/ANI-MUSIC-BOT)
+[![Deploy](https://t.me/freindshipgroup187 www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sameerja1/ANI-MUSIC-BOT)
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
 <a href="https://t.me/freindshipgroup187"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TechQuard"><img 
